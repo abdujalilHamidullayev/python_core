@@ -1,0 +1,2 @@
+class=gdrsghaugfheu
+print(class)
